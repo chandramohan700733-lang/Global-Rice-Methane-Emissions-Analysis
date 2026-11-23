@@ -6,8 +6,12 @@ Python, SQL and a two-page Power BI dashboard.
 **Tools:** Python (pandas), SQL (SQLite), Power BI
 
 ## Dashboard
-![Global overview](dashboard/page1_global_overview.png)
-![India's story](dashboard/page2_india_story.png)
+
+### Global Overview
+![Global Rice Methane - Global Overview](<dashboard/Global overview.png>)
+
+### India's Story
+![Global Rice Methane - India's Story](<dashboard/India's story.png>)
 
 ## Why this project
 Flooded rice fields are a major source of agricultural methane. I wanted to see which countries emit the
